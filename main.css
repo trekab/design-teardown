@@ -25,6 +25,7 @@ html {
 .page-header div {
 	font-size: x-large;
 	font-weight: 700;
+	color: black;
 }
 
 .top-section {
@@ -114,7 +115,7 @@ div.latest-post:last-of-type {
 
 .weight-gray-5 {
 	background-color: #828282;
-	color:#828282;
+	color: #828282;
 }
 
 .weight-gray-4 {
@@ -135,8 +136,4 @@ div.latest-post:last-of-type {
 .weight-gray-1 {
 	background-color: #cfcfcf;
 	color: #cfcfcf;
-}
-
-.page-header div {
-	color: black;
 }
