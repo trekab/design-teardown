@@ -40,7 +40,7 @@ main h2 {
 
 main p {
 	font-size: 14pt;
-	margin: 1em 0;
+	/* margin: 1em 0; */
 }
 
 .page-header {
@@ -90,14 +90,6 @@ main p {
 	width: 75px;
 	height: 75px;
 	background-color: rgb(219, 219, 219);
-}
-
-.top-section {
-	display: grid;
-	height: 800px;
-	overflow: hidden;
-	grid-template-columns: 50% 50%;
-	background-color: #d33a2c;
 }
 
 .main-footer p {
@@ -198,7 +190,7 @@ main p {
 
 .comming-up {
 	height: 100vh;
-	background-color: #009245;
+	justify-content: center;
 }
 
 .featured-smashing-book {
