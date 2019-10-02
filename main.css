@@ -301,3 +301,7 @@ footer div {
 .weight-gray-1 {
 	background-color: #cfcfcf;
 }
+
+.section-title {
+	display: none;
+}
